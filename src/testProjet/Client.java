@@ -1,3 +1,10 @@
+package testProjet;
+
+import Commande.Monocoque;
+import Commande.Multicoque;
+import Commande.RouteAlizes;
+import Commande.Routedirecte;
+
 /**
  * Creation d'une classe cliente permettant de tester le programme de la route du rhum.
  *

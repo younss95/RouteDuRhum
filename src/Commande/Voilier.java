@@ -12,7 +12,16 @@ package Commande;
 
 public abstract class Voilier {
 
+
+    /**
+     * Nom du voilier.
+     */
     private String nom;
+
+
+    /**
+     * Route à suivre.
+     */
     private SuivreRoute suivreRoute; // suivreRoute appartient à une classe qui implemente l'interface Commande.SuivreRoute
 
 

@@ -1,5 +1,7 @@
+package Commande;
+
 /**
- * Classe Route Alizes qui implemente l'interface SuivreRoute
+ * Classe Route Alizes qui implemente l'interface Commande.SuivreRoute
  * et qui renvoie la route à suivre ( en l'occurence la route Alizes )
  *
  *

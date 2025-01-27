@@ -1,5 +1,7 @@
+package Commande;
+
 /**
- * Classe Routedirecte qui implemente l'interface SuivreRoute
+ * Classe Commande.Routedirecte qui implemente l'interface Commande.SuivreRoute
  * et qui renvoie la route à suivre ( en l'occurence la route directe )
  *
  *

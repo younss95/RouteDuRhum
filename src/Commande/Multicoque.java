@@ -1,6 +1,8 @@
+package Commande;
+
 /**
- * Classe Multicoque qui decrit le type du voilier
- *  ( en l'occurence un type Multicoque )
+ * Classe Commande.Multicoque qui decrit le type du voilier
+ *  ( en l'occurence un type Commande.Multicoque )
  *
  *
  * @author Younes Azirgui
@@ -12,7 +14,7 @@
 public class Multicoque extends Voilier{
 
     /**
-     * Construit l'objet de type Multicoque
+     * Construit l'objet de type Commande.Multicoque
      *
      *
      *  @param nom nom du voilier

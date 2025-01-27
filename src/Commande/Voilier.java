@@ -1,5 +1,7 @@
+package Commande;
+
 /**
- * Classe abstraite Voilier qui creer un Voilier qui possède un nom et une route à suivre
+ * Classe abstraite Commande.Voilier qui creer un Commande.Voilier qui possède un nom et une route à suivre
  *
  *
  *
@@ -11,11 +13,11 @@
 public abstract class Voilier {
 
     private String nom;
-    private SuivreRoute suivreRoute; // suivreRoute appartient à une classe qui implemente l'interface SuivreRoute
+    private SuivreRoute suivreRoute; // suivreRoute appartient à une classe qui implemente l'interface Commande.SuivreRoute
 
 
     /**
-     * Constructeur de la classe Voilier qui prend en parametre un nom et une route à suivre
+     * Constructeur de la classe Commande.Voilier qui prend en parametre un nom et une route à suivre
      * @param nom nom du voilier
      * @param suivreRoute route à suivre
      *

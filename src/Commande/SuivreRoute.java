@@ -1,5 +1,7 @@
+package Commande;
+
 /**
- * Interface SuivreRoute qui declare la méthode suivreRoute
+ * Interface Commande.SuivreRoute qui declare la méthode suivreRoute
  * qui sera implementée dans les classes qui heriteront de cette classe
  *
  * @author Younes Azirgui

@@ -1,5 +1,7 @@
+package Commande;
+
 /**
- * Classe Monocoque qui decrit le type du voilier
+ * Classe Commande.Monocoque qui decrit le type du voilier
  *
  *
  * @author Younes Azirgui
@@ -11,7 +13,7 @@ public class Monocoque extends Voilier{
 
 
     /**
-     * Construit l'objet de type Monocoque
+     * Construit l'objet de type Commande.Monocoque
      *
      *
      *  @param name identifiant de commande

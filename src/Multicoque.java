@@ -23,6 +23,13 @@ public class Multicoque extends Voilier{
         super(nom, suivreRoute);
     }
 
+
+
+    /**
+     * Conversion de l'objet en chaine de caracteres.
+     *
+     * @return le type du voilier ( multicoque )
+     */
     public String toString(){
         return super.toString() +"\n Le type du voilier est: multicoque";
 

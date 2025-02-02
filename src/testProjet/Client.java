@@ -17,6 +17,7 @@ public class Client {
 
     /**
      * Création de deux voiliers avec leur routes associées
+     * @param args Arguments de la ligne de commande (non utilisés)
      */
     public static void main(String[] args) {
         Monocoque mo = new Monocoque("Voilier1", new RouteAlizes());
